@@ -1,4 +1,3 @@
-# curso-alura
-Curso Alura logica de programaçao.
-Esse é um codigo que aprendi no curso alura de logica de programaçao.
+# Curso-Alura
+Esse é um projeto que aprendi no curso Alura de Logica de Programaçao.
 Sobre como montar um site,com HTML5 e CSS3.
